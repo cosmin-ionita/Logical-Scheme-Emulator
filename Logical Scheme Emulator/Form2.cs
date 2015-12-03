@@ -26,6 +26,7 @@ namespace Logical_SCH__ATESTAT___TRY_
             _initForm.textHeaders = null;
             _initForm.textDeclarareVariabile = null;
             _initForm.CONTOR_INDENT = 0;
+            //This is an addition from IntelliJIDEA
         }
 
         
